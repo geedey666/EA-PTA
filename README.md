@@ -2,7 +2,7 @@
 -- coding: utf-8 --
 """ Created on Fri Mar 6 11:35:08 2020
 
-@author: Haiyi @email:  @wechart:  @github: https://github.com/geedey666 """
+@author: geedey @email:  @wechart:  @github: https://github.com/geedey666 """
 
 极地资本（GEEDEY CAPITAL）智能量化交易系统
 
